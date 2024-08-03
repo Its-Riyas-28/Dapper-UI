@@ -160,3 +160,102 @@ textarea {
   box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1),
     0 8px 10px -6px rgb(0 0 0 / 0.1);
 }
+
+.opsz{
+  width: 60vw;
+  height: 69vh;
+  position: relative;
+  background-color: rgba(72, 62, 255, 1);
+  margin-left: 260px;
+  margin-top: 100px;
+  border-radius: 0.5rem;
+  box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1),
+    0 8px 10px -6px rgb(0 0 0 / 0.1);
+}
+
+
+
+.info{
+  color: black;
+  background-color:  rgba(188, 224, 246, 1);
+  ;
+  border: none;
+  width: 20vmin;
+  position: absolute;
+  padding: 2vmin;
+  align-items: center;
+  justify-content: center;
+  height: 8vmin;
+  margin-left: 100px;
+  margin-top: 50px;
+  border-radius: 0.75rem;
+  box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1),
+    0 8px 10px -6px rgb(0 0 0 / 0.1);
+}
+
+.bookmarks, .SETTINGS{
+  color: white;
+  background-color: rgba(72, 62, 255, 1);
+  border: 2px solid;
+  width: 20vmin;
+  position: absolute;
+  padding: 2vmin;
+  align-items: center;
+  justify-content: center;
+  height: 8vmin;
+  margin-left: 100px;
+  margin-top: 200px;
+  border-radius: 0.75rem;
+  box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1),
+    0 8px 10px -6px rgb(0 0 0 / 0.1);
+}
+
+.SETTINGS{
+  margin-top: 350px;
+}
+
+.data{
+  background-color: white;
+  width: 32vw;
+  height: 50vh;
+  position: absolute;
+  margin-left:340px ;
+  margin-top: 30px;
+  border-radius: 0.75rem;
+  padding-top: 50px;
+  padding-left: 50px;
+}
+
+.name, .email , .phone , .marks {
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+.next{
+  color: white;
+  font-size: 1rem;
+  background-color: rgb(0, 0, 0);
+  width: 8vw;
+  height: 7vh;
+  padding: 2px;
+  justify-content: center;
+  align-items: center;
+  margin-left: 330px;
+  margin-top: 93px;
+  border-radius: 0.25rem;
+  box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1),
+    0 8px 10px -6px rgb(0 0 0 / 0.1);
+}
+
+.arrow{
+  width:18px;
+  padding-left: 10px;
+}
+
+.support{
+  position: fixed;
+  top: 590px;
+  width: 8vw;
+  display: flex; 
+  margin-left: 1300px;
+}
